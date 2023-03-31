@@ -371,6 +371,7 @@ const styles = StyleSheet.create({
     fontWeight: '400',
     marginLeft: 20,
     fontStyle: 'italic',
+    marginBottom:65,
   },
 });
 
